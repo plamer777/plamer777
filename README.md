@@ -1,4 +1,4 @@
-![Aleksey Mavrin Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Aleksey Mavrin Banner](https://github.com/plamer777/plamer777/blob/main/1668862647223.jpeg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello everyone! I'm a Python developer</h2>
 
@@ -11,7 +11,7 @@
 🌱 &nbsp;I'm going to dicover new awesome opportunities in the programming such as OpenAI, JS, Kubernetis and many others.\
 ✍️ &nbsp;In my free time, I read articles and books regarding Python packages and immersive possibilities of this programming language.\
 💬 &nbsp;Feel free to reach out to me for any kind of questions and proposals.\
-✉️ &nbsp;You can shoot me an email at a.mavrin.work@gmail.com! I'll try to respond ASAP.\
+✉️ &nbsp;You can shoot me an email at a.mavrin.work@gmail.com! I'll try to respond ASAP.
 
 <img alt="Night Coding" src="https://github.com/plamer777/plamer777/blob/main/github_profile.gif" align="right" width='40%' height='40%'/>
 
@@ -31,7 +31,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown);
 
 ### 🤝🏻 &nbsp;Connect with Me
 

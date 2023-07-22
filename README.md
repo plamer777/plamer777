@@ -8,12 +8,12 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I've finished Pythod developer courses but continue to learn new technologies by myself.\
-🌱 &nbsp;I'm going to dicover new awesome opportunities in the programming such as OpenAI, JS, Kubernetis and many others.\
+🌱 &nbsp;I'm going to discover new awesome opportunities in the programming such as OpenAI, JS, Kubernetis and many others.\
 ✍️ &nbsp;In my free time, I read articles and books regarding Python packages and immersive possibilities of this programming language.\
 💬 &nbsp;Feel free to reach out to me for any kind of questions and proposals.\
 ✉️ &nbsp;You can shoot me an email at a.mavrin.work@gmail.com! I'll try to respond ASAP.
 
-<img alt="Night Coding" src="https://github.com/plamer777/plamer777/blob/main/github_profile.gif" align="right" width='40%' height='40%'/>
+<img alt="Night Coding" src="https://github.com/plamer777/plamer777/blob/main/github_profile.gif" align="right" width='30%' height='30%'/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -35,7 +35,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="right">
 <a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 

@@ -13,7 +13,7 @@
 💬 &nbsp;Feel free to reach out to me for any kind of questions and proposals.\
 ✉️ &nbsp;You can shoot me an email at a.mavrin.work@gmail.com! I'll try to respond ASAP.\
 
-<img alt="Night Coding" src="https://github.com/plamer777/plamer777/blob/main/github_profile.gif" align="right"/>
+<img alt="Night Coding" src="https://github.com/plamer777/plamer777/blob/main/github_profile.gif" align="right" width='40%' height='40%'/>
 
 ### 🛠 &nbsp;Tech Stack
 

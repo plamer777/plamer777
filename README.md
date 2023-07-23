@@ -4,14 +4,14 @@
 
 <!-- ## 👋 &nbsp;Hello everyone! I'm a Python developer -->
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" /> A few datails about me
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" /> A few datails about me:
 
-💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I've finished Pythod developer courses but continue to learn new technologies by myself.\
-🌱 &nbsp;I'm going to discover new awesome opportunities in the programming such as OpenAI, JS, Kubernetis and many others.\
-✍️ &nbsp;In my free time, I read articles and books regarding Python packages and immersive possibilities of this programming language.\
-💬 &nbsp;Feel free to reach out to me for any kind of questions and proposals.\
-✉️ &nbsp;You can shoot me an email at a.mavrin.work@gmail.com! I'll try to respond ASAP.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Detective%20Medium-Light%20Skin%20Tone.png" alt="Detective Medium-Light Skin Tone" width="25" height="25" /> I like to explore new technologies and develop software solutions.\
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Medium%20Skin%20Tone.png" alt="Man Student Medium Skin Tone" width="25" height="25" /> I've finished Pythod developer courses but continue to learn new technologies by myself.\
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Superhero%20Medium%20Skin%20Tone.png" alt="Man Superhero Medium Skin Tone" width="25" height="25" /> I'm going to discover new awesome opportunities in the programming such as OpenAI, JS, Kubernetis and many others.\
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Open Book" width="25" height="25" /> In my free time, I read articles and books regarding Python packages to comprehend immersive possibilities of this programming language.\
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /> Feel free to reach out to me for any kind of questions and proposals.\
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Open Mailbox with Raised Flag" width="25" height="25" /> You can shoot me an email at a.mavrin.work@gmail.com! I'll try to respond ASAP.
 
 <img alt="Night Coding" src="https://github.com/plamer777/plamer777/blob/main/github_profile.gif" align="right" width='30%' height='30%'/>
 

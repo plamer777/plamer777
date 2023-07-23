@@ -1,6 +1,6 @@
 ![Aleksey Mavrin Banner](https://github.com/plamer777/plamer777/blob/main/1668862647223.jpeg)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello everyone! I'm a Python developer</h2>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Folded Hands" width="25" height="25" /><h2>Hello everyone! I'm a Python developer</h2>
 
 <!-- ## 👋 &nbsp;Hello everyone! I'm a Python developer -->
 

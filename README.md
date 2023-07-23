@@ -4,7 +4,7 @@
 
 <!-- ## 👋 &nbsp;Hello everyone! I'm a Python developer -->
 
-### 👨🏻‍💻 &nbsp;A few datails about me
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" /> A few datails about me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I've finished Pythod developer courses but continue to learn new technologies by myself.\
